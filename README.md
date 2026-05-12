@@ -1,4 +1,4 @@
-# Telegram AI Bot — OpenClaw
+——————————├──├──├──├──└──—·# Telegram AI Bot — OpenClaw
 
 An intelligent Telegram chatbot powered by the OpenAI API (via OpenClaw). It handles natural language conversations in real time, enforces allowlist-based access control, and supports automated proactive messaging through cron job scheduling.
 
